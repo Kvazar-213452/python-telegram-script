@@ -1,0 +1,9 @@
+{
+    "auto_meessage": [
+        ["code", "index"],
+        ["code1", "index22"]
+    ],    
+    "auto_del_meessage": [
+        "code", "swc"
+    ]
+}
